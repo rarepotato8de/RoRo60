@@ -15,11 +15,11 @@ The **RoRo60** is the compact 60% sibling of the RoRo80, specifically designed f
 The RoRo60 uses the UF2 bootloader for effortless flashing.
 
 1. **First time:** Plug the PCB in. A drive named `RPI-RP2` will appear.
-2. **Flash:** Drag and drop the `roro60_vial.uf2` file into that drive.
+2. **Flash:** Drag and drop the `firmware.uf2` file into that drive.
 3. **Subsequent times:** Hold the **BOOT** button, press **RESET** twice, then release **BOOT** to enter flashing mode again.
 
 > [!TIP]
-> You can find the latest VIAL firmware in the `/firmware` folder of this repository.
+> You can find the firmwares in the `/firmware` folder of this repository. Please use the V2 Firmwares, unless you know you have a old V1 PCB!
 
 ## Supported Layouts
 The RoRo60 is designed for the cleanest look and most popular enthusiast configurations:
