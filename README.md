@@ -29,8 +29,9 @@ The RoRo60 is designed for the cleanest look and most popular enthusiast configu
 * **Caps Lock:** Support for both Stepped and Normal Caps Lock
 * **Split Support:** Split Backspace, Split Left Shift, and Split Right Shift
 
-## USB-C Port OR JST
-If you want to use the JST Port, just don't solder the USB-C Port
+## Inside the RoRo60
+Here's a look at the PCB design from KiCad. It's where all the magic happens!
+<img width="1713" height="681" alt="image" src="https://github.com/user-attachments/assets/03227c75-eafd-48a6-8de4-fb80ceca13b0" />
 
 ## The Story behind "Pete"
 The "Pete" series was born in 2022 within our local enthusiast group. While Peter Zwegat stands for financial recovery, the RoRo60 stands for the exact opposite: deep-diving into the keyboard rabbit hole. It’s a reliable, versatile RP2040-based PCB designed by enthusiasts, for enthusiasts.
