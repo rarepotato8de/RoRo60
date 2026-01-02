@@ -33,7 +33,7 @@ The RoRo60 is designed for the cleanest look and most popular enthusiast configu
 If you want to use the JST Port, just don't solder the USB-C Port
 
 ## The Story behind "Pete"
-The "Pete" series was born in 2021 within our local enthusiast group. While Peter Zwegat stands for financial recovery, the RoRo60 stands for the exact opposite: deep-diving into the keyboard rabbit hole. It’s a reliable, versatile RP2040-based PCB designed by enthusiasts, for enthusiasts.
+The "Pete" series was born in 2022 within our local enthusiast group. While Peter Zwegat stands for financial recovery, the RoRo60 stands for the exact opposite: deep-diving into the keyboard rabbit hole. It’s a reliable, versatile RP2040-based PCB designed by enthusiasts, for enthusiasts.
 
 ---
 
