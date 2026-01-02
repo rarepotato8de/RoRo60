@@ -1,0 +1,8 @@
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+LTO_ENABLE = yes
+TAP_DANCE_ENABLE = no
+COMBO_ENABLE = no
+RGBLIGHT_ENABLE = yes        # Enable keyboard RGB underglow
+RGBLIGHT_DRIVER = WS2812
+WS2812_DRIVER = vendor
