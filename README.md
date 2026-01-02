@@ -19,7 +19,8 @@ The RoRo60 uses the UF2 bootloader for effortless flashing.
 3. **Subsequent times:** Hold the **BOOT** button, press **RESET** twice, then release **BOOT** to enter flashing mode again.
 
 > [!TIP]
-> You can find the firmwares in the `/firmware` folder of this repository. Please use the V2 Firmwares, unless you know you have a old V1 PCB!
+> You can find the firmwares in the `/firmware` folder.
+> Please use the V2 Firmwares, unless you know you have an old V1 PCB!
 
 ## Supported Layouts
 The RoRo60 is designed for the cleanest look and most popular enthusiast configurations:
