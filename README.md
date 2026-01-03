@@ -1,6 +1,6 @@
 # RoRo60: A custom 60% PCB for "Pete" 📉
 
-The **RoRo60** is the compact 60% sibling of the RoRo80, specifically designed for the **"Pete"** enthusiast group. Like its bigger brother, it’s a tribute to Germany's favorite debt counselor, Peter Zwegat. It offers a reliable, versatile RP2040-based platform for those who want to save space on their desk.
+The **RoRo60** is the compact 60% sibling of the RoRo80, specifically designed for the **"Pete"** enthusiast group. Like its bigger brother, it’s a tribute to Germany's favorite debt counselor, Peter Zwegat.
 
 Hotswap:
 <img width="2539" height="957" alt="RoRo60_Hotswap" src="https://github.com/user-attachments/assets/99964ca5-8daa-4544-85cc-b34ea726812f" />
